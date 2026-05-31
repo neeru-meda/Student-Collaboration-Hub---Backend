@@ -236,14 +236,6 @@ curl -X POST "http://localhost:8000/auth/register" \
 
 CORS is configured to allow requests from the frontend origin specified in the `.env` file. To allow multiple origins or modify settings, edit the `main.py` file.
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit pull requests or open issues for bugs and feature requests.
-
-## 📄 License
-
-This project is open source and available under the MIT License.
-
 ## 👤 Author
 
 [neeru-meda](https://github.com/neeru-meda)
