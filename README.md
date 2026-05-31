@@ -1,4 +1,4 @@
-# SCH Backend
+# Student-Collaboration-Hub---Backend
 
 A FastAPI-based backend application for a social community platform with user authentication, posts, comments, and replies functionality.
 
